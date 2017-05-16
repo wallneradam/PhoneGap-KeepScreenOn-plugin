@@ -1,0 +1,11 @@
+{
+  "name": "PhoneGap-KeepScreenOn-plugin",
+  "version": "1.0.1",
+  "description": "Keeps the display on",
+  "keywords": [
+    "cordova",
+    "screen",
+  ],
+  "author": "Adam Wallner",
+  "license": "MIT"
+}
